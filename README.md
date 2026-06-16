@@ -6,8 +6,10 @@ A simple Flutter application that displays a student profile card with shimmer l
 
 ## 📱 Screenshots
 
-| Shimmer Loading + Profile Card | View Details Dialog + Mark Present |
-| <img width="497" height="340" alt="Student Profile UI Img 1" src="https://github.com/user-attachments/assets/ef7d725e-fc27-4263-b136-83f0fb49a27f" /> | <img width="468" height="321" alt="Student Profile UI Img 2" src="https://github.com/user-attachments/assets/8327d3a3-b8fa-4823-b548-0339a8cc66b7" /> |
+Shimmer Loading + Profile Card
+<img width="497" height="340" alt="Student Profile UI Img 1" src="https://github.com/user-attachments/assets/ef7d725e-fc27-4263-b136-83f0fb49a27f" /> 
+View Details Dialog + Mark Present  
+<img width="468" height="321" alt="Student Profile UI Img 2" src="https://github.com/user-attachments/assets/8327d3a3-b8fa-4823-b548-0339a8cc66b7" />
 
 ---
 
